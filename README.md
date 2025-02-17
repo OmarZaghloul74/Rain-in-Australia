@@ -7,28 +7,28 @@ The dataset used in this project contains weather observations from various loca
 
 ## Key Steps in the Project
 ### 1- Data Preprocessing:
-Handled missing values using imputation techniques.
-Encoded categorical variables.
-Scaled numerical features for optimal model performance.
+    Handled missing values using imputation techniques.
+    Encoded categorical variables.
+    Scaled numerical features for optimal model performance.
 
 ### 2- Exploratory Data Analysis (EDA):
     Visualized key weather patterns using Seaborn and Plotly.
     Analyzed correlations between features.
     Identified class imbalances in the dataset.
 
-3- Feature Engineering:
+### 3- Feature Engineering:
     Applied feature selection techniques like SelectKBest.
     Performed dimensionality reduction using PCA.
     Resampled data to handle imbalances.
 
-4- Machine Learning Models:
+### 4- Machine Learning Models:
     Logistic Regression
     Decision Tree Classifier
     Random Forest Classifier
     XGBoost
     Hyperparameter tuning using GridSearchCV and RandomizedSearchCV.
 
-5- Model Evaluation:
+### 5- Model Evaluation:
     Used accuracy, F1-score, confusion matrix, and ROC-AUC for performance evaluation.
     Compared different models to determine the best-performing one.
 
