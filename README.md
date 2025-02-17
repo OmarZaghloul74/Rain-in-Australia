@@ -1,4 +1,4 @@
-🌧️ Rain Prediction in Australia – A Machine Learning Approach 🌦️
+# 🌧️ Rain Prediction in Australia – A Machine Learning Approach 🌦️
 Project Overview
 This project aims to predict whether it will rain tomorrow in different locations across Australia using machine learning models. By analyzing meteorological data, we can gain insights into weather patterns and improve predictive accuracy.
 
