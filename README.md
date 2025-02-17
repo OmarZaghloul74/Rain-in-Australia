@@ -6,12 +6,12 @@ This project aims to predict whether it will rain tomorrow in different location
 The dataset used in this project contains weather observations from various locations in Australia. It includes attributes such as temperature, humidity, wind speed, and pressure, with the target variable being "RainTomorrow" (Yes/No).
 
 ## Key Steps in the Project
-1- Data Preprocessing:
-    Handled missing values using imputation techniques.
-    Encoded categorical variables.
-    Scaled numerical features for optimal model performance.
+### 1- Data Preprocessing:
+Handled missing values using imputation techniques.
+Encoded categorical variables.
+Scaled numerical features for optimal model performance.
 
-2- Exploratory Data Analysis (EDA):
+### 2- Exploratory Data Analysis (EDA):
     Visualized key weather patterns using Seaborn and Plotly.
     Analyzed correlations between features.
     Identified class imbalances in the dataset.
@@ -33,11 +33,11 @@ The dataset used in this project contains weather observations from various loca
     Compared different models to determine the best-performing one.
 
 ## Technologies Used
-    Python
-    Pandas, NumPy (Data Manipulation)
-    Seaborn, Matplotlib, Plotly (Data Visualization)
-    Scikit-learn, XGBoost (Machine Learning)
-    Pickle (Model Serialization)
+Python
+Pandas, NumPy (Data Manipulation)
+Seaborn, Matplotlib, Plotly (Data Visualization)
+Scikit-learn, XGBoost (Machine Learning)
+Pickle (Model Serialization)
 ## Conclusion
 This project demonstrates how machine learning can be leveraged to predict weather conditions based on historical data. The insights gained from this analysis can be useful for weather forecasting and decision-making in agriculture and disaster management.
 
